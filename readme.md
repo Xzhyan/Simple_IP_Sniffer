@@ -1,4 +1,4 @@
-# Astraeus IP Sniffer
+# Simple IP Sniffer
 
 ## 📌 Sobre a ferramenta
 **Astraeus IP Sniffer** é uma ferramenta desenvolvida em Python para capturar endereços IP. Seu foco principal é capturar IPs de chats online, mas pode ser modificada para outras finalidades de captura de IP.
